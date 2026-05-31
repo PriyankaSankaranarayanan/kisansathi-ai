@@ -1,0 +1,32 @@
+[
+  {
+    "disease": "Tomato Early Blight",
+    "confidence": "92%",
+    "description": "Fungal infection affecting tomato leaves with concentric brown rings.",
+    "treatment": "Apply copper-based fungicide and remove infected leaves. Improve air circulation."
+  },
+  {
+    "disease": "Rice Blast",
+    "confidence": "88%",
+    "description": "Serious fungal disease causing diamond-shaped lesions on rice leaves.",
+    "treatment": "Use resistant varieties. Apply tricyclazole fungicide at early stage."
+  },
+  {
+    "disease": "Cotton Leaf Curl",
+    "confidence": "85%",
+    "description": "Viral disease transmitted by whiteflies, causing leaf curling and stunting.",
+    "treatment": "Control whitefly population. Remove infected plants. Use virus-free seeds."
+  },
+  {
+    "disease": "Wheat Rust",
+    "confidence": "90%",
+    "description": "Fungal disease producing orange-brown pustules on wheat leaves.",
+    "treatment": "Apply propiconazole fungicide. Plant rust-resistant wheat varieties."
+  },
+  {
+    "disease": "Potato Late Blight",
+    "confidence": "94%",
+    "description": "Devastating fungal disease causing dark lesions on leaves and stems.",
+    "treatment": "Apply mancozeb fungicide preventively. Destroy infected tubers."
+  }
+]

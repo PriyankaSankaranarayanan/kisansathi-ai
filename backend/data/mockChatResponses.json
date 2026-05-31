@@ -1,0 +1,22 @@
+[
+  {
+    "keywords": ["tomato", "yield", "increase"],
+    "answer": "To increase tomato yield: use balanced NPK fertilizer, ensure 6-8 hours of sunlight, stake plants for support, water consistently at the root zone, and prune suckers. Apply compost before flowering for better fruit set."
+  },
+  {
+    "keywords": ["rice", "yellow", "leaves"],
+    "answer": "Rice leaves turning yellow may indicate nitrogen deficiency, waterlogging, or blast disease. Check soil drainage, apply urea in split doses, and inspect for fungal spots. Consult local agri officer if yellowing spreads rapidly."
+  },
+  {
+    "keywords": ["cotton", "fertilizer", "best"],
+    "answer": "For cotton, use a balanced approach: apply farmyard manure before sowing, then split doses of NPK (120:60:60 kg/ha typical). Boron and zinc micronutrients help boll development. Avoid excess nitrogen which causes vegetative growth."
+  },
+  {
+    "keywords": ["irrigation", "water", "schedule"],
+    "answer": "Irrigate based on crop stage and soil moisture. Most crops need critical watering at flowering and grain filling. Early morning irrigation reduces evaporation. Drip irrigation saves 30-50% water compared to flood irrigation."
+  },
+  {
+    "keywords": ["pest", "organic", "control"],
+    "answer": "Organic pest control: use neem oil spray, introduce beneficial insects, crop rotation, and pheromone traps. Intercropping marigold with vegetables repels many pests naturally."
+  }
+]
